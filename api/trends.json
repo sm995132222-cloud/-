@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T07:55:04.647692+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-06-06T17:16:12.544075+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时24分 ~ 07时55分]"
+        },
+        {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "怎么看待外媒报道美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -47,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -69,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -102,7 +113,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -113,7 +124,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -124,7 +135,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -146,7 +157,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -157,7 +168,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -179,7 +190,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -201,7 +212,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -223,7 +234,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -256,7 +267,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -289,7 +300,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -311,9 +322,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "美国总统特朗普：马斯克曾有一个糟糕的时刻，但现在他是我的一个好朋友。 在马斯克身上，有80%的聪明、也有20%的糟糕时刻",
@@ -322,7 +344,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -340,8 +362,330 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
+          "url": "https://news.ifeng.com/c/8tjg7UwVKTV",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
+          "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
+          "url": "https://flash.jin10.com/detail/20260606060734761800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "据伊朗学生通讯社：在过去一个月内，巴基斯坦内政部长已两次前往德黑兰进行双边和区域磋商。",
+          "url": "https://flash.jin10.com/detail/20260606170003477800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：巴基斯坦内政部长将于周六前往德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260606165323312800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：如果国际原子能机构希望成为外交解决方案的一部分，就必须避免将技术报告变成政治施压的工具。",
+          "url": "https://flash.jin10.com/detail/20260606164755821800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：国际原子能机构正利用美国和以色列对伊朗核设施发动袭击所造成的后果，来制造有关伊朗核计划的“模糊性”。",
+          "url": "https://flash.jin10.com/detail/20260606164742931800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "风水轮流转，轮到伊朗威胁美国了",
+          "url": "https://news.ifeng.com/c/8tjAgk0yryi",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
+        },
+        {
+          "title": "伊朗外长：亲历已故最高领袖遇害瞬间",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E4%BA%B2%E5%8E%86%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%81%87%E5%AE%B3%E7%9E%AC%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
+          "title": "美军：击落4架伊朗无人机，空袭沿海雷达站",
+          "url": "https://wallstreetcn.com/livenews/3115379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：国际原子能机构在某些核设施失去监督是由于发生军事攻击，而非伊朗缺乏合作。",
+          "url": "https://flash.jin10.com/detail/20260606164614805800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "伊朗外长：我亲历已故最高领袖遇害瞬间",
+          "url": "https://wallstreetcn.com/livenews/3115437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "伊朗边防指挥官阿里·阿克巴尔·贾维丹：昨晚，一支企图进入伊朗境内并袭击边防基地的恐怖组织小组与边防军发生了激烈交火，经过激烈的火力对抗，边防军成功对恐怖组织造成了重大损失，6名武装恐怖分子已被击毙，",
+          "url": "https://flash.jin10.com/detail/20260606162327329800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
+          "url": "https://wallstreetcn.com/livenews/3115430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "美国击落至少3架飞往霍尔木兹海峡方向的伊朗无人机。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3115369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "白宫：伊朗国足已获得签证",
+          "url": "https://wallstreetcn.com/livenews/3115427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "美国能源部长赖特：要确保霍尔木兹海峡的石油供应畅通，从而降低汽油和柴油价格，需要与伊朗达成解决方案。",
+          "url": "https://flash.jin10.com/detail/20260606052830749800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://wallstreetcn.com/livenews/3115423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 17时16分]"
+        },
+        {
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 17时16分]"
+        },
+        {
+          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046360260902909588",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 07时55分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
+          "url": "https://wallstreetcn.com/livenews/3115381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "美股三大指数缘何齐跌",
+          "url": "https://www.toutiao.com/trending/7648114822579490346/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
+          "title": "美股三大指数齐跌 纳指跌逾千点",
+          "url": "https://www.toutiao.com/trending/7647681791742214171/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
+        },
+        {
+          "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
+          "url": "https://wallstreetcn.com/livenews/3115378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "费城半导体指数在美股午后盘中下跌近9%。",
+          "url": "https://flash.jin10.com/detail/20260606030109177800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "周五（6月5日），美股信息科技指数收跌9.01%，报410.70点，本周累计下跌6.06%，6月1-4日持稳于455点附近，5日发布非农就业报告之后低开低走。 成分股哀鸿遍野，迈威尔科技/美满电子收跌16.74%，Rigetti计算跌14.40%，D-Wave Quantum、IonQ、美光科技至少跌13.25%，Ondas、Nebius集团、Iren、泰瑞达至少跌12.03%，BigBear.ai、Astera Labs、闪迪、英特尔、超微电脑、西部数据、安森美半导体至少跌11.05%，高通、AMD、高意公司Coherent、芯源系统MPWR、应用数字公司、康宁公司也至少跌10.18%，苹果跌1.25%表现顺数第五，儒博技术公司ROP涨0.11%，是唯一收涨的成分股。",
+          "url": "https://wallstreetcn.com/livenews/3115385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
@@ -355,13 +699,24 @@
           "time_info": "03时24分"
         },
         {
+          "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
+          "url": "https://www.cls.cn/detail/2392502",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
           "title": "谷歌关联的预付能源债券引发市政债券交易员抢购潮",
           "url": "https://wallstreetcn.com/livenews/3115375",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -372,7 +727,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -427,174 +782,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
-        },
-        {
-          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
-        },
-        {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 07时55分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
-          "url": "https://wallstreetcn.com/livenews/3115381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "美股三大指数齐跌 纳指跌逾千点",
-          "url": "https://www.toutiao.com/trending/7647681791742214171/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
-        },
-        {
-          "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
-          "url": "https://wallstreetcn.com/livenews/3115378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "费城半导体指数在美股午后盘中下跌近9%。",
-          "url": "https://flash.jin10.com/detail/20260606030109177800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "周五（6月5日），美股信息科技指数收跌9.01%，报410.70点，本周累计下跌6.06%，6月1-4日持稳于455点附近，5日发布非农就业报告之后低开低走。 成分股哀鸿遍野，迈威尔科技/美满电子收跌16.74%，Rigetti计算跌14.40%，D-Wave Quantum、IonQ、美光科技至少跌13.25%，Ondas、Nebius集团、Iren、泰瑞达至少跌12.03%，BigBear.ai、Astera Labs、闪迪、英特尔、超微电脑、西部数据、安森美半导体至少跌11.05%，高通、AMD、高意公司Coherent、芯源系统MPWR、应用数字公司、康宁公司也至少跌10.18%，苹果跌1.25%表现顺数第五，儒博技术公司ROP涨0.11%，是唯一收涨的成分股。",
-          "url": "https://wallstreetcn.com/livenews/3115385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
-          "url": "https://flash.jin10.com/detail/20260606060734761800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "风水轮流转，轮到伊朗威胁美国了",
-          "url": "https://news.ifeng.com/c/8tjAgk0yryi",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
-        },
-        {
-          "title": "美军：击落4架伊朗无人机，空袭沿海雷达站",
-          "url": "https://wallstreetcn.com/livenews/3115379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国击落至少3架飞往霍尔木兹海峡方向的伊朗无人机。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3115369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "美国能源部长赖特：要确保霍尔木兹海峡的石油供应畅通，从而降低汽油和柴油价格，需要与伊朗达成解决方案。",
-          "url": "https://flash.jin10.com/detail/20260606052830749800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
@@ -602,8 +790,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金价跌回2025年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
         {
           "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
           "url": "https://flash.jin10.com/detail/20260606031454932800",
@@ -625,6 +824,74 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3773996",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
+          "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
+          "url": "https://wallstreetcn.com/livenews/3115309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美元指数5日上涨",
+          "url": "https://flash.jin10.com/detail/20260606052940978800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 07时55分]"
+        },
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
         }
       ]
     },
@@ -654,52 +921,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
-          "url": "https://wallstreetcn.com/livenews/3115309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美元指数5日上涨",
-          "url": "https://flash.jin10.com/detail/20260606052940978800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 07时55分]"
         }
       ]
     }

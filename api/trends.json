@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T05:18:26.333238+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-09T18:47:30.801006+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
@@ -28,6 +28,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "特朗普：内塔尼亚胡，你最好小心点！",
+          "url": "https://news.ifeng.com/c/8toEUKCFcdF",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "特朗普：伊朗最高领袖伤得很重",
@@ -63,6 +85,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
           "url": "https://wallstreetcn.com/articles/3774115",
           "source": "华尔街见闻",
@@ -74,6 +107,39 @@
           "time_info": "05时18分"
         },
         {
+          "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
+          "url": "https://wallstreetcn.com/articles/3774122",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "特朗普出席NBA总决赛遭全场狂嘘，事后“挽尊”辩解",
+          "url": "https://v.ifeng.com/c/8tojH1TtuMo",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "特朗普为何怒怼美国记者",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E6%80%92%E6%80%BC%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "据AXIOS：美国总统特朗普表示，他曾警告以色列总理内塔尼亚胡，如果他与伊朗再度开战，可能会发现自己孤军作战。",
           "url": "https://flash.jin10.com/detail/20260609040311953800",
           "source": "金十数据",
@@ -83,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "克里姆林宫：目前没有关于美国总统特朗普与俄罗斯总统普京进行通话的安排。",
+          "url": "https://flash.jin10.com/detail/20260609181043954800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "特朗普提名托德·布兰奇出任美司法部长",
@@ -165,7 +242,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -177,6 +254,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
+          "url": "https://wallstreetcn.com/articles/3774155",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
@@ -234,6 +333,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "台积电美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3116742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 英特尔涨11%",
           "url": "https://flash.jin10.com/detail/20260609040055776800",
           "source": "金十数据",
@@ -254,12 +364,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "贝莱德：维持美股“超配”评级，坚定看好AI赛道",
+          "url": "https://flash.jin10.com/detail/20260609180130680800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "据伊朗塔斯尼姆通讯社援引消息人士：伊拉克北部的苏莱曼尼亚传出爆炸声。",
@@ -317,6 +438,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "据称2名伊朗军事人员在以色列袭击中丧生",
+          "url": "https://wallstreetcn.com/livenews/3116736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "伊朗圣城旅指挥官：霍尔木兹海峡到曼德海峡正形成“新的安全带”",
           "url": "https://flash.jin10.com/detail/20260609034922041800",
           "source": "金十数据",
@@ -339,11 +471,100 @@
           "time_info": "05时18分"
         },
         {
+          "title": "美国5月小企业信心下滑，因伊朗战争令通胀担忧加剧",
+          "url": "https://flash.jin10.com/detail/20260609180346148800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "伊朗时隔两个月再袭以色列",
           "url": "https://www.douyin.com/hot/2526750",
           "source": "抖音",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
+          "url": "https://wallstreetcn.com/livenews/3116327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "谷歌在欧洲推出Google DeepMind Accelerator Robotics项目，从欧洲筛选出15家机器人公司。",
+          "url": "https://wallstreetcn.com/livenews/3116733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美大学生因ChatGPT与母亲争吵后死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0ChatGPT%E4%B8%8E%E6%AF%8D%E4%BA%B2%E4%BA%89%E5%90%B5%E5%90%8E%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -383,40 +604,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
-          "url": "https://wallstreetcn.com/livenews/3116327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
